@@ -1,5 +1,5 @@
 # Module Name
-KMOD = hworld_kmod
+KMOD = hworld-kmod
  
 # Source files
 SRCS = hworld_kmod.c
